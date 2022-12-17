@@ -8,7 +8,7 @@ Frontend developer Web & Layout designer
 
 🎓I have experience developing SPA. My development technology suite consists of React.js from frameworks. Javascript uses ES6. I use standard Html/Css for layout. The preprocessor uses Sass. I use my own Gulp assembly to build projects. I own 2 Figma/Photoshop graphics editors.
 
-👩‍💻 In my spare time, I develop an analogue of a bulletin board for Cambodia.
+👩‍💻 In my spare time, I develop an analogue of a bulletin board for Thailand.
 
 ## 📈 GitHub Stats
 

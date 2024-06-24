@@ -4,7 +4,7 @@ Frontend developer Web & Layout designer
 
 ## 😄 About me 
 
-✌️ My name is Pavel, I am 20 years old. I have been doing programming for about 3 years, trying out different technologies. I started programming in school. My goal is to become a Full-stack developer.
+✌️ My name is Pavel, I am 22 years old. I have been doing programming for about 3 years, trying out different technologies. I started programming in school. My goal is to become a Full-stack developer.
 
 🎓I have experience developing SPA. My development technology suite consists of React.js from frameworks. Javascript uses ES6. I use standard Html/Css for layout. The preprocessor uses Sass. I use my own Gulp assembly to build projects. I own 2 Figma/Photoshop graphics editors.
 
